@@ -10,3 +10,4 @@ The one stop shop for a comprehensive set of tl;dr for research papers. The ulti
 - Keep it short, I can read the full paper if I wanted to
 - Add sub-category folders when a need for seperation occurs
 - Name each file with Title_of_Paper_With_Underscores.md
+- Folder name are Name-With-Dashes

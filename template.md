@@ -1,7 +1,7 @@
-# [Title of article](http://withURL) [XXXXX]
+# [Title of article](http://withURL) [#]
 
 > Author(s) name
 
 **1 liner tl:dr**
 
-The main summary which is ment to be short since I can read the actual paper to get the full idea. Really just rephrasing their abstract section for them from a new reader perpective. The X to the right of the title is a rating of how difficult it was to read the paper from a techincal perpective. 1 X means anyone can understand it and 5 X's mean you need to know you crap about the topic prior to reading it to get anything out of it.
+The main summary which is ment to be short since I can read the actual paper to get the full idea. Really just rephrasing their abstract section for them from a new reader perpective. The X to the right of the title is the number of pages the paper is. This is used as a means to quick see how long it might take to read the paper.
