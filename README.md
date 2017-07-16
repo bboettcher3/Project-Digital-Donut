@@ -15,4 +15,5 @@ The one stop shop for a comprehensive set of tl;dr for research papers. The ulti
 
 ## Categories
 
-- [Computational-Photography](./Computational-Photography)
+- [Audio Processing](./Audio-Processing)
+- [Computational Photography](./Computational-Photography)
