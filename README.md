@@ -18,4 +18,5 @@ The one stop shop for a comprehensive set of tl;dr for research papers. The ulti
 - [Artificial Intelligence](./Artificial-Intelligence)
 - [Audio Processing](./Audio-Processing)
 - [GPGPU](./GPGPU)
+- [Image Processing](./Image-Processing)
 - [Video](./Video)
