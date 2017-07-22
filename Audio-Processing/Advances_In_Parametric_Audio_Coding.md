@@ -1,4 +1,4 @@
-# [Advances In Parametric Audio Coding](ftp://130.75.31.71/pub/papers/1999/WASPAA99-HP.pdf) [4]
+# [Advances In Parametric Audio Coding](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=810842) [4]
 
 > Heiko Purnhagen
 
