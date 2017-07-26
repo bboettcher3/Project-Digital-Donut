@@ -4,4 +4,4 @@
 
 **Using overlapping patching to get more accurate model**
 
-Faces can be hard to get a detailed model of due to different normals and way light bounces. By having just patches of 50pixel x 50pixel there is a great increase in the accuracy from scanning the face and building a model with it.
+Faces can be hard to get a detailed model of due to different normals and way light bounces. By having just patches of 50pixel x 50pixel there is a great increase in the accuracy from scanning the face and building a model with it. This is helpful as you don't need extra information about the face compared to other algorithms.
