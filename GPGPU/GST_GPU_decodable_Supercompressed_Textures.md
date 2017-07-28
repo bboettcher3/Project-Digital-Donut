@@ -1,4 +1,4 @@
-# [GST: GPU-decodeable Supercompressed Textures](http://dl.acm.org/authorize.cfm?key=N27840) [9]
+# [GST: GPU-decodeable Supercompressed Textures](http://dl.acm.org/citation.cfm?id=2982439) [9]
 
 > Pavel Krajcevski, Srihari Pratapa, and Dinesh Manocha
 
