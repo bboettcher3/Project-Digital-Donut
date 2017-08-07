@@ -21,6 +21,7 @@ The one stop shop for a comprehensive set of tl;dr for research papers. The ulti
 - [GPGPU](./GPGPU)
 - [Graphic Simulation](./Graphic-Simulation)
 - [Image Processing](./Image-Processing)
-- [Phyiscal Rendering](./Physical-Rendering)
+- [Physical Interfaces](./Physical-Interfaces)
+- [Physical Rendering](./Physical-Rendering)
 - [Quantum](./Quantum)
 - [Video](./Video)
