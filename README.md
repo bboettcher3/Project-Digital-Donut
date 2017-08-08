@@ -17,6 +17,7 @@ The one stop shop for a comprehensive set of tl;dr for research papers. The ulti
 
 - [3D Models](./3D-Models)
 - [Artificial Intelligence](./Artificial-Intelligence)
+- [Augmented-Reality](./Augmented-Reality)
 - [Audio Processing](./Audio-Processing)
 - [GPGPU](./GPGPU)
 - [Graphic Simulation](./Graphic-Simulation)
